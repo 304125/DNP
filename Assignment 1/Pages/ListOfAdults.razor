@@ -1,0 +1,114 @@
+﻿@page "/ListOfAdults"
+@using Assignment_1.Data
+@using Models
+
+@inject IAdultData AdultData
+@inject NavigationManager NavMgr
+
+<h1>List of adults</h1>
+<p>
+    Filter by name: <input type="text" @oninput="@((arg) => FilterByName(arg))" style="width: 100px"/>
+</p>
+
+@if (adultsToShow == null)
+{
+    <p>
+        <em>Loading...</em>
+    </p>
+}
+else if (!adultsToShow.Any())
+{
+    <p>
+        <em>No results</em>
+    </p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Id</th>
+            <th>Fist name</th>
+            <th>Last name</th>
+            <th>Hair colour</th>
+            <th>Eye colour</th>
+            <th>Age</th>
+            <th>Weight</th>
+            <th>Height</th>
+            <th>Sex</th>
+            <th>Job title</th>
+            <th>Salary</th>
+            <AuthorizeView Policy="SecurityLevel4">
+                <th>Remove</th>
+            </AuthorizeView>
+        </tr>
+        </thead>
+        <tbody>
+        
+        @foreach (var item in adultsToShow)
+        {
+            <tr class="table_content">
+                <td>@item.Id</td>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.HairColor</td>
+                <td>@item.EyeColor</td>
+                <td>@item.Age</td>
+                <td>@item.Weight</td>
+                <td>@item.Height</td>
+                <td>@item.Sex</td>
+                <td>@item.JobTitle.JobTitle</td>
+                <td>@item.JobTitle.Salary</td>
+                <AuthorizeView Policy="SecurityLevel4">
+                    <td>
+                        <button @onclick="@(() => RemoveAdult(item.Id))">
+                            <i class="oi oi-trash" style="color:red"/>
+                        </button>
+                    </td>
+                </AuthorizeView>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+
+@code {
+    private IList<Adult> adultsToShow;
+    private IList<Adult> allAdults;
+
+    private string? filterByName;
+
+    private void FilterByName(ChangeEventArgs changeEventArgs)
+    {
+        filterByName = null;
+        try
+        {
+            filterByName = changeEventArgs.Value.ToString();
+        }
+        catch (Exception e){
+        }
+        ExecuteFilter();
+    }
+
+    private void ExecuteFilter()
+    {
+        adultsToShow = allAdults.Where(t =>
+            (filterByName != null && (t.FirstName.ToLower().Contains(filterByName.ToLower()) || t.LastName.ToLower().Contains(filterByName.ToLower())) ||filterByName == null)
+            ).ToList();
+    }
+    
+    protected override async Task OnInitializedAsync()
+    {
+        allAdults = AdultData.GetAdults();
+        adultsToShow = allAdults;
+    }
+
+    private void RemoveAdult(int adultId)
+    {
+        Adult adultToRemove = allAdults.First(t => t.Id == adultId);
+        AdultData.RemoveAdult(adultId);
+        allAdults.Remove(adultToRemove);
+        AdultData.SaveChanges();
+    }
+}

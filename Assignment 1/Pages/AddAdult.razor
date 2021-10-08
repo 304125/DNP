@@ -1,0 +1,66 @@
+﻿@page "/AddAdult"
+@using Assignment_1.Data
+@using Microsoft.AspNetCore.Components
+@using Models
+
+@inject IAdultData AdultData
+@inject NavigationManager NavMgr
+
+<h1>Add a new adult</h1>
+<EditForm Model="@newAdult" OnValidSubmit="@AddNewAdult">
+    <DataAnnotationsValidator/>
+    <ValidationSummary/>
+    <div class="grid">
+        <div class="form-group grid_child">*First name: <br/>
+            <InputText @bind-Value="newAdult.FirstName"/>
+        </div>
+        <div class="form-group grid_child">*Last name: <br/>
+            <InputText @bind-Value="newAdult.LastName"/>
+        </div>
+        <div class="form-group grid_child">Hair colour: <br/>
+            <InputText @bind-Value="newAdult.HairColor"/>
+        </div>
+        <div class="form-group grid_child">Eye colour: <br/>
+            <InputText @bind-Value="newAdult.EyeColor"/>
+        </div>
+        <div class="form-group grid_child">*Age: <br/>
+            <InputNumber @bind-Value="newAdult.Age"/>
+        </div>
+        <div class="form-group grid_child">*Weight: <br/>
+            <InputNumber @bind-Value="newAdult.Weight"/>
+        </div>
+        <div class="form-group grid_child">*Height: <br/>
+            <InputNumber @bind-Value="newAdult.Height"/>
+        </div>
+        <div class="form-group grid_child">Job title: <br/>
+            <InputText @bind-Value="newAdult.JobTitle.JobTitle"/>
+        </div>
+        <div class="form-group grid_child">Salary: <br/>
+            <InputNumber @bind-Value="newAdult.JobTitle.Salary"/>
+        </div>
+        <div class="form-group grid_child" style="width: 100px">Sex<br/>
+                          <select class="form-control" @bind="newAdult.Sex">
+                              <option value="">Select...</option>
+                              <option value="M">Male</option>
+                              <option value="F">Female</option>
+                              <option value="O">Others</option>
+                          </select>
+                      </div>
+    
+    
+        <p class="actions grid_child">
+            <button class="btn btn-outline-dark" type="submit">Create</button>
+        </p>
+    </div>
+</EditForm>
+
+
+@code {
+    private Adult newAdult = new Adult();
+
+    private void AddNewAdult()
+    {
+        AdultData.AddAdult(newAdult);
+        NavMgr.NavigateTo("/ListOfAdults");
+    }
+}
