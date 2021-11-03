@@ -48,7 +48,7 @@ namespace Assignment_2.Data
             return adults.FirstOrDefault(t => t.Id == adultId);
         }
         
-        public async Task SaveChanges()
+        public void SaveChanges()
         {
             fileContext.SaveChanges();
         }

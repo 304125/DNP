@@ -32,7 +32,7 @@ namespace Assignment_2_Web_Client.Authentication
                 if (!string.IsNullOrEmpty(userAsJson))
                 {
                     User tmp = JsonSerializer.Deserialize<User>(userAsJson);
-                    ValidateLogin(tmp.UserName, tmp.Password);
+                    ValidateLoginAsync(tmp.UserName, tmp.Password);
                 }
             }
             else
@@ -44,7 +44,7 @@ namespace Assignment_2_Web_Client.Authentication
             return await Task.FromResult(new AuthenticationState(cachedClaimsPrincipal));
         }
 
-        public async Task ValidateLogin(string username, string password)
+        public async Task ValidateLoginAsync(string username, string password)
         {
             Console.WriteLine("Validating log in");
             if (string.IsNullOrEmpty(username)) throw new Exception("Enter username");

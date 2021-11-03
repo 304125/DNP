@@ -20,7 +20,7 @@
         </div>
 
 
-        <a class="login_logout" href="" @onclick="PerformLogin">
+        <a class="login_logout" href="" @onclick="PerformLoginAsync">
             <span class="oi oi-account-login" aria-hidden="true"></span>
             Login
         </a>
@@ -39,12 +39,12 @@
     private string password;
     private string errorMessage;
 
-    public async Task PerformLogin()
+    public async Task PerformLoginAsync()
     {
         errorMessage = "";
         try
         {
-            await ((CustomAuthenticationStateProvider) AuthenticationStateProvider).ValidateLogin(username, password);
+            await ((CustomAuthenticationStateProvider) AuthenticationStateProvider).ValidateLoginAsync(username, password);
             NavigationManager.NavigateTo("/");
         }
         catch (Exception e)

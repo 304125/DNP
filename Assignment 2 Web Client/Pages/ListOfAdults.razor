@@ -61,7 +61,7 @@ else
                 <td>@item.JobTitle.Salary</td>
                 <AuthorizeView Policy="SecurityLevel4">
                     <td>
-                        <button @onclick="@(() => RemoveAdult(item.Id))">
+                        <button @onclick="@(() => RemoveAdultAsync(item.Id))">
                             <i class="oi oi-trash" style="color:red"/>
                         </button>
                     </td>
@@ -104,7 +104,7 @@ else
         adultsToShow = allAdults;
     }
 
-    private async Task RemoveAdult(int adultId)
+    private async Task RemoveAdultAsync(int adultId)
     {
         Adult adultToRemove = allAdults.First(t => t.Id == adultId);
         await AdultData.RemoveAdultAsync(adultId);

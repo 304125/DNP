@@ -10,6 +10,6 @@ namespace Assignment_2.Data
         Task<Adult> AddAdultAsync(Adult adult);
         Task<Adult> RemoveAdultAsync(int adultId);
         Task<Adult> GetByIdAsync(int adultId);
-        Task SaveChanges();
+        void SaveChanges();
     }
 }

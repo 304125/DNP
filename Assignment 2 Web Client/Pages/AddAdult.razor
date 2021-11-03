@@ -7,7 +7,7 @@
 @inject NavigationManager NavMgr
 
 <h1>Add a new adult</h1>
-<EditForm Model="@newAdult" OnValidSubmit="@AddNewAdult">
+<EditForm Model="@newAdult" OnValidSubmit="@AddNewAdultAsync">
     <DataAnnotationsValidator/>
     <ValidationSummary/>
     <div class="grid">
@@ -58,7 +58,7 @@
 @code {
     private Adult newAdult = new Adult();
 
-    private async Task AddNewAdult()
+    private async Task AddNewAdultAsync()
     {
         await AdultData.AddAdultAsync(newAdult);
         NavMgr.NavigateTo("/ListOfAdults");
