@@ -37,15 +37,15 @@ namespace Assignment_1.Data
                 new User
                 {
                     Password = "123",
-                    SecurityLevel = 1,
-                    UserName = "Mihail"
+                    SecurityLevel = 2,
+                    UserName = "someone"
 
                 },
                 new User
                 {
                     Password = "123",
-                    SecurityLevel = 1,
-                    UserName = "Alex"
+                    SecurityLevel = 2,
+                    UserName = "nobody"
                 }
             }.ToList();
         }

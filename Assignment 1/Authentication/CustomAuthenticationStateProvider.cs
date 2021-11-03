@@ -44,6 +44,8 @@ namespace Assignment_1.Authentication
             return await Task.FromResult(new AuthenticationState(cachedClaimsPrincipal));
         }
 
+        //public async Task ValidateLogin(string username, string password)
+
         public void ValidateLogin(string username, string password)
         {
             Console.WriteLine("Validating log in");
@@ -53,6 +55,7 @@ namespace Assignment_1.Authentication
             ClaimsIdentity identity = new ClaimsIdentity();
             try
             {
+                //User user = await userService.ValidateUserAsync(username, password);
                 User user = userService.ValidateUser(username, password);
                 identity = SetupClaimsForUser(user);
                 string serialisedData = JsonSerializer.Serialize(user);

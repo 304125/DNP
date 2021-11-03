@@ -1,0 +1,31 @@
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\adults.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\appsettings.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\families.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\Assignment 2 Web API.exe
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\Assignment 2 Web API.deps.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\Assignment 2 Web API.runtimeconfig.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\Assignment 2 Web API.runtimeconfig.dev.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\Assignment 2 Web API.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\ref\Assignment 2 Web API.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\Assignment 2 Web API.pdb
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.csproj.AssemblyReference.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.AssemblyInfoInputs.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.AssemblyInfo.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\staticwebassets\Assignment 2 Web API.StaticWebAssets.Manifest.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\staticwebassets\Assignment 2 Web API.StaticWebAssets.xml
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\scopedcss\bundle\Assignment 2 Web API.styles.css
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.RazorTargetAssemblyInfo.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.csproj.CopyComplete
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\ref\Assignment 2 Web API.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.pdb
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web API\obj\Debug\net5.0\Assignment 2 Web API.genruntimeconfig.cache

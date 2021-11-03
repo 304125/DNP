@@ -15,6 +15,4 @@ public class Family {
         Adults = new List<Adult>();     
     }
 }
-
-
 }
