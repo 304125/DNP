@@ -1,0 +1,42 @@
+﻿<div class="@NavMenuCssClass" @onclick="ToggleNavMenu" style="background-color: #F29877">
+    <ul class="nav flex-column">
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="ListOfAdults">
+                <span class="oi oi-list" aria-hidden="true"></span>List of adults
+            </NavLink>
+        </li>
+        <AuthorizeView Policy="SecurityLevel2">
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="AddAdult">
+                    <span class="oi oi-plus" aria-hidden="true"></span>Add a new adult
+                </NavLink>
+            </li>
+        </AuthorizeView>
+        <AuthorizeView Policy="SecurityLevel4">
+            <li class="nav-item px-3">
+                <NavLink class="nav-link" href="TopSecret">
+                    <span class="oi oi-lock-locked" aria-hidden="true"></span> Top secret
+                </NavLink>
+            </li>
+        </AuthorizeView>
+        
+        
+    </ul>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+
+}

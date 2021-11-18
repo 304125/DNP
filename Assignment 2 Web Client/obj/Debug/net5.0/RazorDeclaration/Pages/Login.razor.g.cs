@@ -104,12 +104,12 @@ using Assignment_2_Web_Client.Authentication;
     private string password;
     private string errorMessage;
 
-    public async Task PerformLogin()
+    public async Task PerformLoginAsync()
     {
         errorMessage = "";
         try
         {
-            await ((CustomAuthenticationStateProvider) AuthenticationStateProvider).ValidateLogin(username, password);
+            await ((CustomAuthenticationStateProvider) AuthenticationStateProvider).ValidateLoginAsync(username, password);
             NavigationManager.NavigateTo("/");
         }
         catch (Exception e)

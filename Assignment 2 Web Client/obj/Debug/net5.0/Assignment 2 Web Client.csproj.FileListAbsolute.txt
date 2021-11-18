@@ -1,4 +1,15 @@
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.csproj.AssemblyReference.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\appsettings.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.StaticWebAssets.xml
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.exe
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.deps.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.runtimeconfig.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.runtimeconfig.dev.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\ref\Assignment 2 Web Client.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.pdb
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.Views.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.Views.pdb
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.AssemblyInfoInputs.cache
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.AssemblyInfo.cs
@@ -42,21 +53,9 @@ C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\scopedcss\projectbundle\Assignment 2 Web Client.bundle.scp.css
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.RazorTargetAssemblyInfo.cache
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.RazorTargetAssemblyInfo.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.Views.pdb
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.dll
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\ref\Assignment 2 Web Client.dll
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.pdb
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\appsettings.json
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.StaticWebAssets.xml
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.exe
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.deps.json
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.runtimeconfig.json
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.runtimeconfig.dev.json
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.dll
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\ref\Assignment 2 Web Client.dll
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.pdb
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.Views.dll
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\bin\Debug\net5.0\Assignment 2 Web Client.Views.pdb
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.Views.pdb
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.genruntimeconfig.cache
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 2 Web Client\obj\Debug\net5.0\Assignment 2 Web Client.csproj.CopyComplete

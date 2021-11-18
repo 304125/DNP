@@ -115,7 +115,7 @@ using Models;
        
     private Adult newAdult = new Adult();
 
-    private async Task AddNewAdult()
+    private async Task AddNewAdultAsync()
     {
         await AdultData.AddAdultAsync(newAdult);
         NavMgr.NavigateTo("/ListOfAdults");

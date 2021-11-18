@@ -1,0 +1,62 @@
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.csproj.AssemblyReference.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.AssemblyInfoInputs.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.AssemblyInfo.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\appsettings.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\Assignment 3 Client.StaticWebAssets.xml
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\Assignment 3 Client.exe
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\Assignment 3 Client.deps.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\Assignment 3 Client.runtimeconfig.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\Assignment 3 Client.runtimeconfig.dev.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\Assignment 3 Client.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\ref\Assignment 3 Client.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\Assignment 3 Client.pdb
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\Assignment 3 Client.Views.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\bin\Debug\net5.0\Assignment 3 Client.Views.pdb
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.RazorComponent.input.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\Pages\AddAdult.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\Pages\ListOfAdults.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\Pages\TopSecret.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.RazorComponent.output.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\RazorDeclaration\Assignment 3 Client.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.TagHelpers.input.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.TagHelpers.output.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.RazorCoreGenerate.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\Pages\AddAdult.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\Pages\ListOfAdults.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\Pages\TopSecret.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.RazorAssemblyInfo.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.RazorAssemblyInfo.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\staticwebassets\Assignment 3 Client.StaticWebAssets.Manifest.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\staticwebassets\Assignment 3 Client.StaticWebAssets.xml
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\scopedcss\bundle\Assignment 3 Client.styles.css
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\scopedcss\projectbundle\Assignment 3 Client.bundle.scp.css
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.RazorTargetAssemblyInfo.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.RazorTargetAssemblyInfo.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.Views.pdb
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\ref\Assignment 3 Client.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.pdb
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.genruntimeconfig.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Client\obj\Debug\net5.0\Assignment 3 Client.csproj.CopyComplete

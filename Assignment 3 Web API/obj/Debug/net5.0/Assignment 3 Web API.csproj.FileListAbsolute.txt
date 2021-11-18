@@ -1,0 +1,59 @@
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\adults.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\appsettings.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\families.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Assignment 3 Web API.exe
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Assignment 3 Web API.deps.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Assignment 3 Web API.runtimeconfig.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Assignment 3 Web API.runtimeconfig.dev.json
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Assignment 3 Web API.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\ref\Assignment 3 Web API.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Assignment 3 Web API.pdb
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.csproj.AssemblyReference.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.AssemblyInfoInputs.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.AssemblyInfo.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.csproj.CoreCompileInputs.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\staticwebassets\Assignment 3 Web API.StaticWebAssets.Manifest.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\staticwebassets\Assignment 3 Web API.StaticWebAssets.xml
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\scopedcss\bundle\Assignment 3 Web API.styles.css
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.RazorTargetAssemblyInfo.cache
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.csproj.CopyComplete
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\ref\Assignment 3 Web API.dll
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.pdb
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 3 Web API\obj\Debug\net5.0\Assignment 3 Web API.genruntimeconfig.cache

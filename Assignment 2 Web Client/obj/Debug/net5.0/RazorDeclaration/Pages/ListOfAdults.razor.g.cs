@@ -137,7 +137,7 @@ using Models;
         adultsToShow = allAdults;
     }
 
-    private async Task RemoveAdult(int adultId)
+    private async Task RemoveAdultAsync(int adultId)
     {
         Adult adultToRemove = allAdults.First(t => t.Id == adultId);
         await AdultData.RemoveAdultAsync(adultId);

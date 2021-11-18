@@ -20,7 +20,11 @@ C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Assignment
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Assignment 1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Assignment 1.RazorComponent.input.cache
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Pages\AddAdult.razor.g.cs
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Pages\ListOfAdults.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Pages\TopSecret.razor.g.cs
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
@@ -31,7 +35,11 @@ C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Assignment
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Assignment 1.TagHelpers.output.cache
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Assignment 1.RazorCoreGenerate.cache
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Pages\AddAdult.razor.g.cs
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Pages\ListOfAdults.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Pages\TopSecret.razor.g.cs
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
@@ -54,11 +62,3 @@ C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\ref\Assign
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Assignment 1.pdb
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Assignment 1.genruntimeconfig.cache
 C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Assignment 1.csproj.CopyComplete
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Pages\ListOfAdults.razor.g.cs
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Pages\ListOfAdults.razor.g.cs
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Pages\AddAdult.razor.g.cs
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Pages\AddAdult.razor.g.cs
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\RazorDeclaration\Pages\TopSecret.razor.g.cs
-C:\Users\Maggie\RiderProjects\Solution1\Assignment 1\obj\Debug\net5.0\Razor\Pages\TopSecret.razor.g.cs
