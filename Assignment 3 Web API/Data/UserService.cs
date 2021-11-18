@@ -16,6 +16,7 @@ namespace Data
         public UserService()
         {
             adultsDbContext = new AdultsDBContext();
+            /*
             users = new[]
             {
                 new User
@@ -58,6 +59,7 @@ namespace Data
                 adultsDbContext.Users.Add(users[i]);
                 adultsDbContext.SaveChangesAsync();
             }
+            */
         }
         public async Task<User> ValidateUserAsync(string userName, string password)
         {

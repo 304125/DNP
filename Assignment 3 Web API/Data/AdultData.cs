@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -18,7 +19,9 @@ namespace Data
 
         public AdultData()
         {
+            
             adultsDbContext = new AdultsDBContext();
+            /*
             string content = File.ReadAllText(adultsFile);
             adults = JsonSerializer.Deserialize<List<Adult>>(content);
 
@@ -35,12 +38,19 @@ namespace Data
                 SaveChanges();
                 Console.WriteLine("now its here");
             }
-            
+            */
         }
 
         public async Task<IList<Adult>> GetAdultsAsync()
         {
-            return adultsDbContext.Adults.ToList();
+            IList<Adult> adults = adultsDbContext.Adults.ToList();
+            IList<Job> jobs = adultsDbContext.Jobs.ToList();
+            for (int i = 0; i < adults.Count; i++)
+            {
+                adults[i].JobTitle = jobs[i];
+            }
+
+            return adults;
         }
 
         public async Task<Adult> AddAdultAsync(Adult adult)
